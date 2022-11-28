@@ -22,7 +22,7 @@ class _AuctionPageState extends State<AuctionPage> {
 
       // THE BOTTOMNAVIGATION BAR CONTAINING ICONS
       bottomNavigationBar: BottomNavigationBar(
-        selectedItemColor: Colors.black,
+        selectedItemColor: Colors.black87,
         elevation: 0,
         iconSize: 30,
         showUnselectedLabels: false,
